@@ -13,5 +13,5 @@ subtitle = "project freedom, sharing all the stuff that needed"
   color = "#090a0b"
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 +++
